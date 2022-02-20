@@ -1,7 +1,6 @@
 import 'package:bookers/Screens/Home%20Page/components/Chat%20Section/chat_list.dart';
 import 'package:bookers/Screens/Home%20Page/utilities/book_list_view.dart';
-import 'package:bookers/Screens/Home%20Page/utilities/prova.dart';
-import 'package:bookers/Screens/Welcome/welcome.dart';
+//import 'package:bookers/Screens/Home%20Page/utilities/prova.dart';
 import 'package:bookers/constants.dart';
 import 'package:bookers/utils/book_object.dart';
 import 'package:bookers/utils/database_manager.dart';
