@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723150332924",
+    "project_id": "bookers-kd",
+    "storage_bucket": "bookers-kd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723150332924:android:a993579d9611b3faa14879",
+        "android_client_info": {
+          "package_name": "com.kedis.bookers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723150332924-ef9na9nnbn881fiqucojgfof33i3m314.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kedis.bookers",
+            "certificate_hash": "08f0beb9ccfc262c8febbec1ab50283797c1bc43"
+          }
+        },
+        {
+          "client_id": "723150332924-bnmovop20r0ci9emb0bvrvhb03fn62ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNAkQsjMo6JdI7NB1iDXS1Dv-5PY6joU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723150332924-bnmovop20r0ci9emb0bvrvhb03fn62ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
